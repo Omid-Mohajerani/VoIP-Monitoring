@@ -2,7 +2,6 @@
 VoIP Monitoring Project such as Homer, VOIPMONITOR or Zabbix
 
 ***
-
 [Learn VoIPMonitor - Part 1 - What is VoIPMonitor? ](https://www.youtube.com/watch?v=klcd0Dmg9k4)
 [![What is VoIPMonitor?](https://github.com/Omid-Mohajerani/VoIP-Monitoring/blob/main/screenshots/VoipMonitor_into-features-architecture.png?raw=true)](https://www.youtube.com/watch?v=klcd0Dmg9k4)
 
@@ -14,3 +13,13 @@ VoIP Monitoring Project such as Homer, VOIPMONITOR or Zabbix
 
 [Learn VOIPMONITOR - Part 4 - VoIP Monitor Sensor Installation and Configuration](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Installing-and-configuring-VoIPMonitor-Sensor-(Sniffer))
 [![VoIP Monitor Sensor Installation and Configuration](https://github.com/Omid-Mohajerani/VoIP-Monitoring/blob/main/screenshots/voip_monitor_sensor_configuration.png?raw=true)](https://www.youtube.com/watch?v=x0gNUcV41Fg)
+
+
+***
+
+[Prometheus Installation on Debian 11](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Prometheus-Installation-on-Debian-11)
+[![Prometheus Installation on Debian 11](https://github.com/Omid-Mohajerani/VoIP-Monitoring/blob/main/screenshots/Prometheus_Installation_On_Debian11.png?raw=true)](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Prometheus-Installation-on-Debian-11)
+
+
+
+
