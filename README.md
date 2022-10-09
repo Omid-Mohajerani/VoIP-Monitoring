@@ -21,5 +21,8 @@ VoIP Monitoring Project such as Homer, VOIPMONITOR or Zabbix
 [![Prometheus Installation on Debian 11](https://github.com/Omid-Mohajerani/VoIP-Monitoring/blob/main/screenshots/Prometheus_Installation_On_Debian11.png?raw=true)](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Prometheus-Installation-on-Debian-11)
 
 
+[Prometheus Node Exporter Installation and Configuration on Debian 11](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Prometheus-Node-Exporter-Installation-and-Configuration-on-Debian-11)
+[![Prometheus Node Exporter Installation and Configuration on Debian 11](https://github.com/Omid-Mohajerani/VoIP-Monitoring/blob/main/screenshots/Prometheus_Node_Exporter_On_Debian11.png?raw=true)](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Prometheus-Node-Exporter-Installation-and-Configuration-on-Debian-11)
+
 
 
