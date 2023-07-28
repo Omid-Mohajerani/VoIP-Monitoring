@@ -2,6 +2,10 @@
 VoIP Monitoring Project such as Homer, VOIPMONITOR or Zabbix
 
 ***
+[Monitor your FreePBX telephony Server with Zabbix ]([https://www.youtube.com/watch?v=klcd0Dmg9k4](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Monitoring-FreePBX-with-Zabbix))
+[![Monitor your FreePBX telephony Server with Zabbix](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Monitoring-FreePBX-with-Zabbix)
+
+***
 [Learn VoIPMonitor - Part 1 - What is VoIPMonitor? ](https://www.youtube.com/watch?v=klcd0Dmg9k4)
 [![What is VoIPMonitor?](https://github.com/Omid-Mohajerani/VoIP-Monitoring/blob/main/screenshots/VoipMonitor_into-features-architecture.png?raw=true)](https://www.youtube.com/watch?v=klcd0Dmg9k4)
 
