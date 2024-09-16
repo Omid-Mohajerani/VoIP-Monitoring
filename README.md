@@ -31,6 +31,7 @@ VoIP Monitoring Project such as Homer, VOIPMONITOR or Zabbix
 
 [Monitoring Asterisk with Prometheus - Configuration Files](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Prometheus-Asterisk-Configuration-files)
 [![Monitoring Asterisk with Prometheus - Configuration Files](https://github.com/Omid-Mohajerani/VoIP-Monitoring/blob/main/screenshots/Monitoring-Asterisk-Promtheus-config-files.png?raw=true)](https://github.com/Omid-Mohajerani/VoIP-Monitoring/wiki/Prometheus-Asterisk-Configuration-files)
+ - [Capture and Monitor your SIP Network Traffic with HOMER](https://www.youtube.com/watch?v=sZOad2JVfe4&list=PLcrU7LQXdqpfvvsEV3AGvXoTyQ7uGLyve&index=11)
 
 
 
